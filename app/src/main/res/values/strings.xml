@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rent car App</string>
+    <string name="daily_rent_50rs_and_current_milage3453">Daily rent 50rs and Current milage3453</string>
+    <string name="want_liability_insurance">Want liability insurance</string>
+    <string name="driver_s_age_19"><![CDATA[Driver\'s age <19]]></string>
+    <string name="enter_the_number_of_days">Enter the number of days</string>
+    <string name="calculate_rent">Calculate Rent</string>
+    <string name="find_rent">Find rent</string>
+    <string name="todo">TODO</string>
+    <string name="enter_return_milege">Enter return milege</string>
+
+</resources>
